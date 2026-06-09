@@ -2,4 +2,4 @@
 
 bullet solverのデモ
 
-<video src="Assets/pingpong.mp4" controls width="100%"></video>
+<video src="https://github.com/user-attachments/assets/7721d930-e160-4f35-9eaf-a908600beccf" controls width="100%"></video>
